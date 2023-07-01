@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T02:56:25.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="1-573FDp7ABOP4Y9lsJh" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T02:57:16.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="x6mDPprF1sFB6PD_SJkc" version="21.5.2" type="github">
   <diagram name="Página-1" id="PqHn9Dh7yP-jF3FoaL0B">
     <mxGraphModel dx="1895" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qB7VqJZ4Xb1lMKzwYPK3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qB7VqJZ4Xb1lMKzwYPK3-23" target="qB7VqJZ4Xb1lMKzwYPK3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qB7VqJZ4Xb1lMKzwYPK3-23" value="Ingresar correo de recuperación" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="280" width="210" height="30" as="geometry" />
         </mxCell>
@@ -59,6 +62,9 @@
         </mxCell>
         <mxCell id="qB7VqJZ4Xb1lMKzwYPK3-25" value="Ingresar datos de inicio de sesión" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qB7VqJZ4Xb1lMKzwYPK3-29" value="Validar en la base de datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="342.5" width="105" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
